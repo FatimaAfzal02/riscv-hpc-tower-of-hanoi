@@ -1,4 +1,4 @@
-# Tower of Hanoi - RISC-V Demonstration
+# Tower of Hanoi  RISC-V Demonstration
 
 Recursive vs iterative solution implementations with performance benchmarking and cross-compilation support for RISC-V architecture.
 
